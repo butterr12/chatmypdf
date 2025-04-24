@@ -5,7 +5,7 @@ Welcome to **ChatMyPDF**! This is your personal chatbot that interacts with your
 ## Try It Out!
 Want to see **ChatMyPDF** in action? It’s live on HuggingFace Spaces! Check it out and start chatting with your PDFs instantly:
 
-[![ChatMyPDF Demo](https://github.com/Sakalya100/AutoTabML/blob/main/Sample%20Data/5229488.png)]()
+[![ChatMyPDF Demo](https://github.com/Sakalya100/AutoTabML/blob/main/Sample%20Data/5229488.png)](https://huggingface.co/spaces/butterr12/chatmypdf)
 
 ## Key Features
 
